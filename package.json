@@ -1,0 +1,11 @@
+{
+  "name": "conFusion",
+  "private": true,
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma-jasmine": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
